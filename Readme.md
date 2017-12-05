@@ -8,12 +8,12 @@
 
 ###### Linux Command Line Basics
 
-![Screenshot_1](/task_1/linux-1-2017-12-05 00-39-53.png)
+![Screen_1](/task_1/linux-1-2017-12-05 00-39-53.png)
 
 ###### Configuring Linux Web Servers
 
-![Screenshot_2](/task_1/linux-2-2017-12-05 00-40-48.png)
+![Screen_2](/task_1/linux-2-2017-12-05 00-40-48.png)
 
 ###### Networking for Web Developers
 
-![Screenshot_3](/task_1/linux-3-2017-12-05 00-40-48.png)
+![Screen_3](/task_1/linux-3-2017-12-05 00-40-48.png)
